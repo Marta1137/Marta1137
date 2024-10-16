@@ -10,8 +10,7 @@ Użytkownik będzie miał możliwość wyboru
 konkretnych cech z kryteriów 
 narzuconych z góry, np. kolor żaby,
 miejsce jej występowania, czy jest 
-jadowita. Ilość wszystkich cech do wyboru
-będzie oczywiście większa.
+jadowita. Ilość wszystkich cech do wyboru będzie oczywiście większa.
 Po wyborze kryteriów przez użytkownika
 program będzie wyświetlać listę gatunków,
 które są zgodne z wybranymi przez 
@@ -23,5 +22,5 @@ o niej. W zakresie tych informacji będzie
 się znajdować między innymi nazwa 
 łacińska, liczebność gatunku i 
 ciekawostka (jeśli będzie ona dostępna 
-dla danej żaby/ ropuchy. 
+dla danej żaby/ ropuchy).
 
