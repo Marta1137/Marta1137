@@ -24,3 +24,8 @@ się znajdować między innymi nazwa
 ciekawostka (jeśli będzie ona dostępna 
 dla danej żaby/ ropuchy).
 
+Założenia: 
+- wybór kilki cech z puli narzuconych kryteriów 
+- wyszukiwanie gatunków żab/ropuch na podstawie wybranych kryteriów 
+- wyświetlenie informacji o wybranym gatunku 
+-
