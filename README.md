@@ -5,7 +5,7 @@ i ropuch
 Opis:
 Aplikacja będzie służyć do wyszukiwania
 gatunków żab i ropuch występujących
-w Polsce, w zależności od wybranych kryteriów. 
+w Polsce, w zależności od wybranych kryteriów. Aplikacja ma na celu zwiększenie wiedzy użytkownika, o gatunkach żab i ropuch występujących w Polsce. 
 Użytkownik będzie miał możliwość wyboru
 konkretnych cech z kryteriów 
 narzuconych z góry, np. kolor żaby,
@@ -15,7 +15,7 @@ Po wyborze kryteriów przez użytkownika
 program będzie wyświetlać listę gatunków,
 które są zgodne z wybranymi przez 
 użytkownika cechami. Użytkownik będzie
-mógł wybrać z listy interesujący go
+mógł wybrać z listy, interesujący go
 okaz. Po wyborze konkretnej żaby 
 aplikacja wyświetli podstawowe informacje 
 o niej. W zakresie tych informacji będzie
